@@ -15,4 +15,7 @@
 * [Color](foundations/color.md)
 * [Color Palette](foundations/color-palette.md)
 * [Grid](foundations/grid.md)
+* [Iconography](foundations/iconography.md)
+* [Illustrations](foundations/illustrations.md)
+* [Typography](foundations/typography.md)
 
