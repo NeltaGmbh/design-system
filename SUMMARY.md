@@ -13,4 +13,6 @@
 
 * [Accessibility](foundations/accessibility.md)
 * [Color](foundations/color.md)
+* [Color Palette](foundations/color-palette.md)
+* [Grid](foundations/grid.md)
 
