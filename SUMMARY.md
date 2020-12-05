@@ -19,3 +19,7 @@
 * [Illustrations](foundations/illustrations.md)
 * [Typography](foundations/typography.md)
 
+## Content
+
+* [Writing style](content/writing-style.md)
+
