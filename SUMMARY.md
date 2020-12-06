@@ -6,6 +6,7 @@
 
 * [For developers](getting-started/for-developers.md)
 * [For designers](getting-started/for-designers.md)
+* [Changelog](getting-started/changelog.md)
 
 ## Brand
 
@@ -66,10 +67,6 @@
 * [Templates](resources/templates.md)
 * [UI Kit](resources/ui-kit.md)
 * [XD Library](resources/xd-library.md)
-
----
-
-* [Changelog](changelog.md)
 
 ## Others
 
