@@ -8,7 +8,6 @@ Deployment Status: [![buddy pipeline](https://app.buddy.works/nelta/design-syste
 
 Starter template is a snippet code for blank HTML page. Use the below snippet as a way to quickly start any new blank page.
 
-{% code title="index.html" %}
 ```markup
 <!DOCTYPE html>
 <html lang="en">
@@ -37,5 +36,4 @@ Starter template is a snippet code for blank HTML page. Use the below snippet as
   </body>
 </html>
 ```
-{% endcode %}
 
