@@ -1,6 +1,6 @@
 # Table of contents
 
-* [For Developers](README.md)
+* [Introduction](README.md)
 
 ## Getting started
 
