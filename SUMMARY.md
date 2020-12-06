@@ -4,8 +4,8 @@
 
 ## Getting started
 
-* [For Developers](getting-started/for-developers.md)
-* [For Designers](getting-started/for-designers.md)
+* [For developers](getting-started/for-developers.md)
+* [For designers](getting-started/for-designers.md)
 
 ## Brand
 

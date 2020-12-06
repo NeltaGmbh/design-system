@@ -2,7 +2,7 @@
 description: Everything you need to start designing with Nelta UI kit.
 ---
 
-# For Designers
+# For designers
 
 👋 Hi Nelta.de designer. Set up your computer to be effective with Nelta.
 

@@ -1,4 +1,4 @@
-# For Developers
+# For developers
 
 ### Installation
 
