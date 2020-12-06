@@ -1,6 +1,10 @@
-# Illustrations
+---
+description: >-
+  Illustrations help convey complex ideas in a simple way. They should be
+  meaningful and reflect a user's context and emotional state.
+---
 
-> Illustrations help convey complex ideas in a simple way. They should be meaningful and reflect a user's context and emotional state.
+# Illustrations
 
 ## The role of illustrations
 
@@ -23,7 +27,7 @@ Consider the following principles for how we want to be perceived through illust
 
 ## Types of illustration
 
-```text
-To be decided if we will use illustrations or not. NOT DECIDED YET
-```
+{% hint style="warning" %}
+To be decided if we will use illustrations or not.
+{% endhint %}
 

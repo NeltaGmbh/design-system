@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Changelog](changelog.md)
 
 ## Brand
 
@@ -62,4 +61,8 @@
 * [Templates](resources/templates.md)
 * [UI Kit](resources/ui-kit.md)
 * [XD Library](resources/xd-library.md)
+
+---
+
+* [Changelog](changelog.md)
 

@@ -1,20 +1,42 @@
 # Changelog
 
-## 15.0.0 - 2042-12-03
+## 0.1.15 - December 2020
 
-### Fixed
+* 🥳 Release of the [Framework](https://www.npmjs.com/package/nelta-framework/v/0.1.15)
 
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
+## 0.1.15 - November 2020
 
 ### Added
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* [Avatar](components/avatar.md)
+* [Banner](components/banner.md)
+* [Buttons](components/button.md)
+* [Flag](components/flag.md)
+* [Logo](components/logo.md)
+* [Pagination](components/pagination.md)
+* [Section Message](components/section-message.md)
+* [Tag](components/tag.md)
+* [Tooltip](components/tooltip.md)
+* Framework on [npmJS](https://www.npmjs.com/package/nelta-framework/)
+
+### Changed
+
+* [Breadcrumbs ](components/breadcrumbs.md)- Redesigned and Developed
+* [Checkbox](components/checkbox.md) - Redesigned and Developed
+* [Dropdown](components/dropdown.md) - Redesigned and Developed
+* [Radio](components/radio.md) - Redesigned and Developed
+* [Select](components/select.md) - Redesigned and Developed
+* [Tabs](components/tabs.md) - Redesigned and Developed
+* [Text Field](components/text-field.md) - Redesigned and Developed
+* [Toggle](components/toggle.md) - Redesigned and Developed
+
+### Fixed
+
+* [Modal Dialog](components/modal-dialog.md) - Reconstructed
+
+## 0.0.1 - October 2020
+
+🥳 Design System Created
 
 
 

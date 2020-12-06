@@ -20,70 +20,33 @@ font-family: 'Nexa', sans-serif;
 
 Augmented Fourth Typography is more than just a way to make text look great on a webpage. It’s a **deceptively simple design system** that maintains perfect proportionality in any design. We use the Augmented Fourth scale 1.414 with a base size of 16px \(1em\).
 
-```text
-span: 6
-rows:
-  - Tag: H1
-    Font Size PX: 90px
-    Font Size REM: 5.653rem
-    Line Height: 1.15
-  - Tag: H2
-    Font Size PX: 63px
-    Font Size REM: 3.998rem
-    Line Height: 1.15
-  - Tag: H3
-    Font Size PX: 45px
-    Font Size REM: 2.827rem
-    Line Height: 1.15
-  - Tag: H4
-    Font Size PX: 31px
-    Font Size REM: 1.999rem
-    Line Height: 1.15
-  - Tag: H5
-    Font Size PX: 22px
-    Font Size REM: 1.414rem
-    Line Height: 1.15
-  - Tag: P
-    Font Size PX: 16px
-    Font Size REM: 1rem
-    Line Height: 1.65
-  - Tag: small
-    Font Size PX: 11px
-    Font Size REM: 0.707rem
-    Line Height: 1.65
-```
+| TAG | FONT SIZE PX | FONT SIZE REM | LINE HEIGHT |
+| :--- | :--- | :--- | :--- |
+| H1 | 90px | 5.653rem | 1.15 |
+| H2 | 63px | 3.998rem | 1.15 |
+| H3 | 45px | 2.827rem | 1.15 |
+| H4 | 31px | 1.999rem | 1.15 |
+| H5 | 22px | 1.414rem | 1.15 |
+| P | 16px | 1rem | 1.65 |
+| small | 11px | 0.707rem | 1.65 |
 
-```text
-span: 6
-rows:
-  - Tag: Display 1
-    Font Size PX: 177px
-    Font Size REM: 11.089rem
-    Line Height: 1.15
-  - Tag: Display 2
-    Font Size PX: 109px
-    Font Size REM: 6.854rem
-    Line Height: 1.15
-  - Tag: Display 3
-    Font Size PX: 67px
-    Font Size REM: 4.236rem
-    Line Height: 1.15
-  - Tag: Display 4
-    Font Size PX: 41px
-    Font Size REM: 2.618rem
-    Line Height: 1.15
-```
+| TAG | FONT SIZE PX | FONT SIZE REM | LINE HEIGHT |
+| :--- | :--- | :--- | :--- |
+| Display 1 | 177px | 11.089rem | 1.15 |
+| Display 2 | 109px | 6.854rem | 1.15 |
+| Display 3 | 67px | 4.236rem | 1.15 |
+| Display 4 | 41px | 2.618rem | 1.15 |
 
 ## Headings
 
 All HTML headings, `<h1>` through `<h5>`, are available.
 
-```text
-{
-    "headings": [90,63,45,31,22],
-    "font": 'Lato', sans-serif,
-    "color": "#11173D"
-}
+```markup
+<h1>The quick brown fox jumps over the lazy dog</h1>
+<h2>The quick brown fox jumps over the lazy dog</h2>
+<h3>The quick brown fox jumps over the lazy dog</h3>
+<h4>The quick brown fox jumps over the lazy dog</h4>
+<h5>The quick brown fox jumps over the lazy dog</h5>
 ```
 
 `.h1` through `.h5` classes are also available, for when you want to match the font styling of a heading but cannot use the associated HTML element.
