@@ -64,5 +64,6 @@
 
 ---
 
+* [Component status](component-status.md)
 * [Changelog](changelog.md)
 

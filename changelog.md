@@ -1,9 +1,5 @@
 # Changelog
 
-## 0.1.15 - December 2020
-
-* 🥳 Release of the [Framework](https://www.npmjs.com/package/nelta-framework/v/0.1.15)
-
 ## 0.1.15 - November 2020
 
 ### Added
