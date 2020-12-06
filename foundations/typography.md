@@ -1,8 +1,12 @@
+---
+description: >-
+  Documentation and examples for Nelta typography, including global settings,
+  headings, body text, lists, and more.
+---
+
 # Typography
 
 Typography is one of the most important aspects of the design system to establish early on—think of how much information you'll communicate to users through type. Type could account for 85-90% of any given screen. Typography is often one of the foundational components you will want to get a handle on as it will need to work harmoniously with other elements like icons and UI controls. Your line-heights may even influence many other structural elements like spacing and grids. Here are a few key areas you'll want to think through.
-
-Documentation and examples for Nelta typography, including global settings, headings, body text, lists, and more.
 
 ## Typeface: [Lato](https://fonts.google.com/specimen/Lato?sidebar.open=true&selection.family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900)
 
