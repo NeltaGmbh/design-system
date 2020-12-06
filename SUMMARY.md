@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [For Developers](README.md)
+
+## Getting started
+
+* [For Developers](getting-started/for-developers.md)
+* [For Designers](getting-started/for-designers.md)
 
 ## Brand
 
@@ -64,6 +69,9 @@
 
 ---
 
-* [Component status](component-status.md)
 * [Changelog](changelog.md)
+
+## Others
+
+* [Component status](others/component-status.md)
 
