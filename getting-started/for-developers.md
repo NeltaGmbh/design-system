@@ -63,3 +63,11 @@ Starter template is a snippet code for blank HTML page. Use the below snippet as
 </html>
 ```
 
+### **Provided development tools include:**
+
+{% page-ref page="../foundations/grid.md" %}
+
+{% page-ref page="../foundations/typography.md" %}
+
+{% page-ref page="../others/component-status.md" %}
+
