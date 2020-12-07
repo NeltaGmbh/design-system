@@ -2,162 +2,43 @@
 
 ## Vertical Logo Showcase
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-1.svg"
-title: "Vertical 1"
-```
+| Vertical 1 | Vertical 2 | Vertical 3 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-1-1-.svg)  | ![](../.gitbook/assets/vertical-2-1-.svg)  |  ![](../.gitbook/assets/vertical-3-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-2.svg"
-title: "Vertical 2"
-```
+{% file src="../.gitbook/assets/vertical-1-1-.svg" caption="Vertical 1" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-3.svg"
-title: "Vertical 3"
-```
+{% file src="../.gitbook/assets/vertical-2-1-.svg" caption="Vertical 2" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-4.svg"
-title: "Vertical 4"
-```
+{% file src="../.gitbook/assets/vertical-3-1-.svg" caption="Vertical 3" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-5.svg"
-title: "Vertical 5"
-```
+| Vertical 4 | Vertical 5 | Vertical 6 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-4-1-.svg)  | ![](../.gitbook/assets/vertical-5-1-.svg)  |  ![](../.gitbook/assets/vertical-6-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-6.svg"
-title: "Vertical 6"
-```
+{% file src="../.gitbook/assets/vertical-4-1-.svg" caption="Vertical 4" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-7.svg"
-title: "Vertical 7"
-```
+{% file src="../.gitbook/assets/vertical-5-1-.svg" caption="Vertical 5" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-8.svg"
-title: "Vertical 8"
-```
+{% file src="../.gitbook/assets/vertical-6-1-.svg" caption="Vertical 6" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-9.svg"
-title: "Vertical 9"
-```
+| Vertical 7 | Vertical 8 | Vertical 9 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-7-1-.svg)  |  ![](../.gitbook/assets/vertical-8-1-.svg)  |  ![](../.gitbook/assets/vertical-9-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-10.svg"
-title: "Vertical 10"
-```
+{% file src="../.gitbook/assets/vertical-7-1-.svg" caption="Vertical 7" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-11.svg"
-title: "Vertical 11"
-```
+{% file src="../.gitbook/assets/vertical-8-1-.svg" caption="Vertical 8" %}
 
-## Vertical Logo Download
+{% file src="../.gitbook/assets/vertical-9-1-.svg" caption="Vertical 9" %}
 
-```text
-{
-    "title": "Vertical 1 (.svg)",
-    "subtitle": "8 KB",
-    "url": "/assets/logo/vertical-1.svg"
-}
-```
+| Vertical 10 | Vertical 11 |
+| :--- | :--- |
+| ![](../.gitbook/assets/vertical-10-1-.svg)  |  ![](../.gitbook/assets/vertical-11-1-.svg)  |
 
-```text
-title: Vertical 2 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-2.svg"
-```
+{% file src="../.gitbook/assets/vertical-10-1-.svg" caption="Vertical 10" %}
 
-```text
-title: Vertical 3 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-3.svg"
-```
-
-```text
-title: Vertical 4 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-4.svg"
-```
-
-```text
-title: Vertical 5 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-5.svg"
-```
-
-```text
-title: Vertical 6 (.svg)
-subtitle: 7 KB
-span: 2
-url: "/assets/logo/vertical-6.svg"
-```
-
-```text
-title: Vertical 7 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-7.svg"
-```
-
-```text
-title: Vertical 8 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-8.svg"
-```
-
-```text
-title: Vertical 9 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-9.svg"
-```
-
-```text
-title: Vertical 10 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/vertical-10.svg"
-```
-
-```text
-title: Vertical 11 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/vertical-11.svg"
-```
+{% file src="../.gitbook/assets/vertical-11-1-.svg" caption="Vertical 11" %}
 
 ## Horizontal Logo Showcase
 
