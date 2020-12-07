@@ -6,7 +6,7 @@ description: 'Avatar is used to display a picture, typically next to a person''s
 
 ## Default
 
-![](../.gitbook/assets/default.svg)
+![](../.gitbook/assets/default%20%281%29.svg)
 
 ```markup
 <div class="avatar">

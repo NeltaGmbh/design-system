@@ -44,7 +44,7 @@ Warning section messages are the most common. They help users:
 * take the actions needed to avoid potentially dangerous actions
 * feel certain they're making the decision, for example, in confirmation modals.
 
-![](../.gitbook/assets/warning%20%281%29.svg)
+![](../.gitbook/assets/warning%20%282%29.svg)
 
 ```markup
 <div class="sm-warning">
