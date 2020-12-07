@@ -6,6 +6,8 @@ description: >-
 
 # Tag
 
+![](../.gitbook/assets/tags.svg)
+
 ```markup
 <div class="tag">
     <a href="#"><span class="item">Two</span></a>
@@ -18,6 +20,8 @@ description: >-
 ## Size, Shape and Colors
 
 The tag comes in many different sizes, shape and colors.
+
+![](../.gitbook/assets/tag-colors-shape-and-size.svg)
 
 ```markup
 <div class="tag">
