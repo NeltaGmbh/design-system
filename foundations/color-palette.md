@@ -125,6 +125,10 @@ Each background color is paired with a foreground color. The foreground is consi
 
 ### Main color
 
+|  |  |
+| :--- | :--- |
+| \#sdsd | sdsd |
+
 ```text
 colors:
    - {value: "#11173D"}
@@ -138,14 +142,7 @@ colors:
 
 ### Contrast color
 
-```text
-colors:
-   - {value: "#E0FF4F"}
-   - {value: "#E5FF6C"}
-   - {value: "#EAFF8A"}
-   - {value: "#F0FFA7"}
-   - {value: "#F5FFC4"}
-   - {value: "#FAFFE2"}
-   - {value: "#FFFFFF"}
-```
+| \#E0FF4F | \#E5FF6C | \#EAFF8A | \#F0FFA7 | \#F5FFC4 | \#FAFFE2 | \#FFFFFF |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
 
