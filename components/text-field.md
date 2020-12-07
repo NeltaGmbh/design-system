@@ -8,6 +8,8 @@ description: A text field is an input that allows a user to write or edit text.
 
 Place one add-on or button on either side of an input. You may also place one on both sides of an input. Remember to place `<label>`s outside the input group.
 
+![](../.gitbook/assets/textfield.png)
+
 {% tabs %}
 {% tab title="HTML" %}
 ```markup
