@@ -32,9 +32,9 @@
 
 {% file src="../.gitbook/assets/vertical-9-1-.svg" caption="Vertical 9" %}
 
-| Vertical 10 | Vertical 11 |
-| :--- | :--- |
-| ![](../.gitbook/assets/vertical-10-1-.svg)  |  ![](../.gitbook/assets/vertical-11-1-.svg)  |
+| Vertical 10 | Vertical 11 |  |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-10-1-.svg)  |  ![](../.gitbook/assets/vertical-11-1-.svg)  |  |
 
 {% file src="../.gitbook/assets/vertical-10-1-.svg" caption="Vertical 10" %}
 
