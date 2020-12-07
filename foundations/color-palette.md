@@ -20,7 +20,7 @@
 
 ### Neutral Palette
 
-![](../.gitbook/assets/neutral-palette.svg)
+![](../.gitbook/assets/neutral-palette%20%281%29.svg)
 
 | $neutral-1 | $neutral-2 | $neutral-3 | $neutral-4 | $neutral-5 | $neutral-6 | $neutral-7 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
