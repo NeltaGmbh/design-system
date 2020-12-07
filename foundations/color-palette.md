@@ -98,11 +98,15 @@ Each background color is paired with a foreground color. The foreground is consi
 
 ### Main color
 
+![](../.gitbook/assets/main-color-gradient-palette.svg)
+
 |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | \#11173D | \#393E5D | \#60647E | \#888B9E | \#B0B2BE | \#D7D8DF | \#FFFFFF |
 
 ### Contrast color
+
+![](../.gitbook/assets/contrast-color-gradient-palette.svg)
 
 |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
