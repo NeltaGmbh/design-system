@@ -47,33 +47,21 @@ colors:
 
 Left to Right
 
-```text
-span: 3
-name: "$blue-1"
-value: "#1C2445"
-```
+![](../.gitbook/assets/blue-gradient.svg)
 
-```text
-span: 3
-name: "$blue-4"
-value: "#4557A2"
-```
+| $blue-1 | $blue-4 |
+| :--- | :--- |
+| \#1C2445 | \#4557A2 |
 
 ### Yellow - Linear
 
 Left to Right
 
-```text
-span: 3
-name: "$yellow-1"
-value: "#E0FF43"
-```
+![](../.gitbook/assets/yellow-gradient.svg)
 
-```text
-span: 3
-name: "$yellow-4"
-value: "#AAC236"
-```
+| $yellow-1 | $yellow-4 |
+| :--- | :--- |
+| \#E0FF43 | \#AAC236 |
 
 ## Color pairings
 
