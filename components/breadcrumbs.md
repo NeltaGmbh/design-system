@@ -6,6 +6,8 @@ description: >-
 
 # Breadcrumbs
 
+![](../.gitbook/assets/breadcrumbs.svg)
+
 ```markup
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
