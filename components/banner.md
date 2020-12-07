@@ -10,6 +10,8 @@ description: A banner displays a prominent message at the top of the screen.
 
 The default form of a banner. Use `.banner-warning` banners when you want the user to take a specific action or to warn them that something is about to go wrong.
 
+![](../.gitbook/assets/warning.svg)
+
 ```markup
 <div class="banner-warning">
     <ion-icon name="warning"></ion-icon>
@@ -18,6 +20,8 @@ The default form of a banner. Use `.banner-warning` banners when you want the us
 ```
 
 ### Error
+
+![](../.gitbook/assets/error.svg)
 
 Use `.banner-error` banners to inform users something critical has happened and requires immediate attention.
 
