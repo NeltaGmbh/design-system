@@ -109,46 +109,17 @@ Each background color is paired with a foreground color. The foreground is consi
 
 ### Contrast color foreground
 
-```text
-span: 6
-rows:
-  - N: 1
-    Foreground Color: '#E0FF4F'
-    Background Color: '#11173D'
-    Result: Pass - 15.31 - Super
-  - N: 2
-    Foreground Color: '#E0FF4F'
-    Background Color: '#1C2445'
-    Result: Pass - 13.39 - Super
-  - N: 3
-    Foreground Color: '#E0FF4F'
-    Background Color: '#262C4E'
-    Result: Pass - 11.97 - Super
-  - N: 4
-    Foreground Color: '#E0FF4F'
-    Background Color: '#3C4160'
-    Result: Pass - 8.78 - Very good
-  - N: 5
-    Foreground Color: '#E0FF4F'
-    Background Color: '#D0ED49'
-    Result: Fail - 1.17 - Very poor
-  - N: 6
-    Foreground Color: '#E0FF4F'
-    Background Color: '#DADADA'
-    Result: Fail - 1.24 - Very poor
-  - N: 7
-    Foreground Color: '#E0FF4F'
-    Background Color: '#EAEAEA'
-    Result: Fail - 1.06 - Very poor
-  - N: 8
-    Foreground Color: '#E0FF4F'
-    Background Color: '#F2F2F2'
-    Result: Fail - 1.01 - Very poor
-  - N: 9
-    Foreground Color: '#E0FF4F'
-    Background Color: '#FFFFFF'
-    Result: Fail - 1.13 - Very poor
-```
+| N | Foreground Color | Background Color | Result |
+| :--- | :--- | :--- | :--- |
+| 1 | \#E0FF4F | \#11173D | Pass - 15.31 - Super |
+| 2 | \#E0FF4F | \#1C2445 | Pass - 13.39 - Super |
+| 3 | \#E0FF4F | \#262C4E | Pass - 11.97 - Super |
+| 4 | \#E0FF4F | \#3C4160 | Pass - 8.78 - Very good |
+| 5 | \#E0FF4F | \#D0ED49 | Fail - 1.17 - Very poor |
+| 6 | \#E0FF4F | \#DADADA | Fail - 1.24 - Very poor |
+| 7 | \#E0FF4F | \#EAEAEA | Fail - 1.06 - Very poor |
+| 8 | \#E0FF4F | \#F2F2F2 | Fail - 1.01 - Very poor |
+| 9 | \#E0FF4F | \#FFFFFF | Fail - 1.13 - Very poor |
 
 ### Color gradient palettes
 
