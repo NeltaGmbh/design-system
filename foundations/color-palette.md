@@ -43,7 +43,7 @@ colors:
 
 ## Gradients
 
-#### Blue - Linear
+### Blue - Linear
 
 Left to Right
 
@@ -59,7 +59,7 @@ name: "$blue-4"
 value: "#4557A2"
 ```
 
-#### Yellow - Linear
+### Yellow - Linear
 
 Left to Right
 
@@ -75,11 +75,11 @@ name: "$yellow-4"
 value: "#AAC236"
 ```
 
-### Color pairings
+## Color pairings
 
 Each background color is paired with a foreground color. The foreground is considered text and ensures that any color chosen is accessible. However, there may be cases where the background color is used for the text color. In such cases it's the responsibility of the designer to meet WCAG 2.1 AA requirements.
 
-#### White foreground
+### White foreground
 
 | N | Foreground Color | Background Color | Result |
 | :--- | :--- | :--- | :--- |
@@ -121,9 +121,9 @@ Each background color is paired with a foreground color. The foreground is consi
 | 8 | \#E0FF4F | \#F2F2F2 | Fail - 1.01 - Very poor |
 | 9 | \#E0FF4F | \#FFFFFF | Fail - 1.13 - Very poor |
 
-### Color gradient palettes
+## Color gradient palettes
 
-#### Main color
+### Main color
 
 ```text
 colors:
@@ -136,7 +136,7 @@ colors:
    - {value: "#FFFFFF"}
 ```
 
-#### Contrast color
+### Contrast color
 
 ```text
 colors:
