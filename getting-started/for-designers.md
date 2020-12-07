@@ -16,3 +16,21 @@ We use Adobe XD for all our entire design workflow.
 
 Visit our [fonts](../resources/fonts.md) section here and install Lato and Nexa.
 
+### **Provided design tools include:**
+
+{% page-ref page="../foundations/color.md" %}
+
+{% page-ref page="../foundations/color-palette.md" %}
+
+{% page-ref page="../foundations/iconography.md" %}
+
+{% page-ref page="../foundations/typography.md" %}
+
+{% page-ref page="../resources/fonts.md" %}
+
+{% page-ref page="../resources/logo.md" %}
+
+{% page-ref page="../resources/ui-kit.md" %}
+
+{% page-ref page="../resources/xd-library.md" %}
+
