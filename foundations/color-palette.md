@@ -81,89 +81,31 @@ Each background color is paired with a foreground color. The foreground is consi
 
 #### White foreground
 
-```text
-span: 6
-rows:
-  - N: 1
-    Foreground Color: '#ffffff'
-    Background Color: '#11173D'
-    Result: Pass - 17.30 - Super
-  - N: 2
-    Foreground Color: '#ffffff'
-    Background Color: '#1C2445'
-    Result: Pass - 15.13 - Super
-  - N: 3
-    Foreground Color: '#ffffff'
-    Background Color: '#262C4E'
-    Result: Pass - 13.52 - Super
-  - N: 4
-    Foreground Color: '#ffffff'
-    Background Color: '#3C4160'
-    Result: Pass - 9.92 - Very good
-  - N: 5
-    Foreground Color: '#ffffff'
-    Background Color: '#E0FF4F'
-    Result: Fail - 1.13 - Very poor
-  - N: 6
-    Foreground Color: '#ffffff'
-    Background Color: '#D0ED49'
-    Result: Fail - 1.32 - Very poor
-  - N: 7
-    Foreground Color: '#ffffff'
-    Background Color: '#DADADA'
-    Result: Fail - 1.40 - Very poor
-  - N: 8
-    Foreground Color: '#ffffff'
-    Background Color: '#EAEAEA'
-    Result: Fail - 1.20 - Very poor
-  - N: 9
-    Foreground Color: '#ffffff'
-    Background Color: '#F2F2F2'
-    Result: Fail - 1.12 - Very poor
-```
+| N | Foreground Color | Background Color | Result |
+| :--- | :--- | :--- | :--- |
+| 1 | \#ffffff | \#11173D | Pass - 17.30 - Super |
+| 2 | \#ffffff | \#1C2445 | Pass - 15.13 - Super |
+| 3 | \#ffffff | \#262C4E | Pass - 13.52 - Super |
+| 4 | \#ffffff | \#3C4160 | Pass - 9.92 - Very good |
+| 5 | \#ffffff | \#E0FF4F | Fail - 1.13 - Very poor |
+| 6 | \#ffffff | \#D0ED49 | Fail - 1.32 - Very poor |
+| 7 | \#ffffff | \#DADADA | Fail - 1.40 - Very poor |
+| 8 | \#ffffff | \#EAEAEA | Fail - 1.20 - Very poor |
+| 9 | \#ffffff | \#F2F2F2 | Fail - 1.12 - Very poor |
 
 ### Main color foreground
 
-```text
-span: 6
-rows:
-  - N: 1
-    Foreground Color: '#11173D'
-    Background Color: '#1C2445'
-    Result: Fail - 1.14 - Very poor
-  - N: 2
-    Foreground Color: '#11173D'
-    Background Color: '#262C4E'
-    Result: Fail - 1.28 - Very poor
-  - N: 3
-    Foreground Color: '#11173D'
-    Background Color: '#3C4160'
-    Result: Fail - 1.74 - Very poor
-  - N: 4
-    Foreground Color: '#11173D'
-    Background Color: '#E0FF4F'
-    Result: Pass - 15.31 - Super
-  - N: 5
-    Foreground Color: '#11173D'
-    Background Color: '#D0ED49'
-    Result: Pass - 13.09 - Super
-  - N: 6
-    Foreground Color: '#11173D'
-    Background Color: '#DADADA'
-    Result: Pass - 12.38 - Super
-  - N: 7
-    Foreground Color: '#11173D'
-    Background Color: '#EAEAEA'
-    Result: Pass - 14.38 - Super
-  - N: 8
-    Foreground Color: '#11173D'
-    Background Color: '#F2F2F2'
-    Result: Pass - 15.45 - Super
-  - N: 9
-    Foreground Color: '#11173D'
-    Background Color: '#FFFFFF'
-    Result: Pass - 17.30 - Super
-```
+| N | Foreground Color | Background Color | Result |
+| :--- | :--- | :--- | :--- |
+| 1 | \#11173D | \#1C2445 | Fail - 1.14 - Very poor |
+| 2 | \#11173D | \#262C4E | Fail - 1.28 - Very poor |
+| 3 | \#11173D | \#3C4160 | Fail - 1.74 - Very poor |
+| 4 | \#11173D | \#E0FF4F | Pass - 15.31 - Super |
+| 5 | \#11173D | \#D0ED49 | Pass - 13.09 - Super |
+| 6 | \#11173D | \#DADADA | Pass - 12.38 - Super |
+| 7 | \#11173D | \#EAEAEA | Pass - 14.38 - Super |
+| 8 | \#11173D | \#F2F2F2 | Pass - 15.45 - Super |
+| 9 | \#11173D | \#FFFFFF | Pass - 17.30 - Super |
 
 ### Contrast color foreground
 
