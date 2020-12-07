@@ -4,42 +4,27 @@
 
 ### Blue Palette
 
-```text
-colors:
-  - {name: "$blue-1", value: "#1C2445"}
-  - {name: "$blue-2", value: "#2A3564"}
-  - {name: "$blue-3", value: "#374683"}
-  - {name: "$blue-4", value: "#4557A2"}
-  - {name: "$blue-5", value: "#5268C1"}
-  - {name: "$blue-6", value: "#6079E0"}
-  - {name: "$blue-7", value: "#6D8AFF"}
-```
+![](../.gitbook/assets/blue-palette.svg)
+
+| $blue-1 | $blue-2 | $blue-3 | $blue-4 | $blue-5 | $blue-6 | $blue-7 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| \#1C2445 | \#2A3564 | \#374683 | \#4557A2 | \#5268C1 | \#6079E0 | \#6D8AFF |
 
 ### Yellow Palette
 
-```text
-colors:
-  - {name: "$yellow-1", value: "#E0FF43"}
-  - {name: "$yellow-2", value: "#CEEB3F"}
-  - {name: "$yellow-3", value: "#BCD63A"}
-  - {name: "$yellow-4", value: "#AAC236"}
-  - {name: "$yellow-5", value: "#97AD31"}
-  - {name: "$yellow-6", value: "#85992D"}
-  - {name: "$yellow-7", value: "#738428"}
-```
+![](../.gitbook/assets/yellow-palette.svg)
+
+| $yellow-1 | $yellow-2 | $yellow-3 | $yellow-4 | $yellow-5 | $yellow-6 | $yellow-7 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| \#E0FF43 | \#CEEB3F | \#BCD63A | \#AAC236 | \#97AD31 | \#85992D | \#738428 |
 
 ### Neutral Palette
 
-```text
-colors:
-  - {name: "$neutral-1", value: "#051225"}
-  - {name: "$neutral-2", value: "#2D3848"}
-  - {name: "$neutral-3", value: "#555E6C"}
-  - {name: "$neutral-4", value: "#7E858F"}
-  - {name: "$neutral-5", value: "#A6ABB2"}
-  - {name: "$neutral-6", value: "#CED1D6"}
-  - {name: "$neutral-7", value: "#F6F7F9"}
-```
+![](../.gitbook/assets/neutral-palette.svg)
+
+| $neutral-1 | $neutral-2 | $neutral-3 | $neutral-4 | $neutral-5 | $neutral-6 | $neutral-7 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| \#051225 | \#2D3848 | \#555E6C | \#7E858F | \#A6ABB2 | \#CED1D6 | \#F6F7F9 |
 
 ## Gradients
 
