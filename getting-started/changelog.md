@@ -30,7 +30,7 @@
 
 * [Modal Dialog](../components/modal-dialog.md) - Reconstructed
 
-## 0.0.1 - October 2020
+## 0.1.0 - October 2020
 
 🥳 Design System Created
 
