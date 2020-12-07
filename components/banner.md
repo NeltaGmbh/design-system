@@ -21,9 +21,9 @@ The default form of a banner. Use `.banner-warning` banners when you want the us
 
 ### Error
 
-![](../.gitbook/assets/error.svg)
-
 Use `.banner-error` banners to inform users something critical has happened and requires immediate attention.
+
+![](../.gitbook/assets/error.svg)
 
 ```markup
 <div class="banner-error">
