@@ -1,38 +1,29 @@
 # Color
 
-```text
-span: 2
-name: "$main-blue"
-value: "#11173D"
-```
+## Main Colors
 
-```text
-span: 2
-name: "$main-yellow"
-value: "#E0FF4F"
-```
+![Main Blue](../.gitbook/assets/main-blue.svg)
 
-```text
-span: 2
-name: "$white"
-value: "#ffffff"
-```
+![Main Yellow](../.gitbook/assets/main-yellow.svg)
 
-```text
-span: 2
-name: "$main-warning"
-value: "#FABE47"
-```
+![White](../.gitbook/assets/white.svg)
 
-```text
-span: 2
-name: "$main-danger"
-value: "#F45564"
-```
+## Status Colors
 
-```text
-span: 2
-name: "$main-success"
-value: "#3CB08B"
-```
+![Main Warning](../.gitbook/assets/main-warning.svg)
+
+![Main Danger](../.gitbook/assets/main-danger.svg)
+
+![Main Success](../.gitbook/assets/main-success.svg)
+
+## Variables and Values
+
+| Variable | HEX Value |
+| :--- | :--- |
+| $main-blue | \#11173D |
+| $main-yellow | \#E0FF4F |
+| $white | \#FFFFFF |
+| $main-warning | \#FABE47 |
+| $main-danger | \#F45564 |
+| $main-success | \#3CB08B |
 

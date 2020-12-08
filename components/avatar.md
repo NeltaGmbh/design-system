@@ -6,6 +6,8 @@ description: 'Avatar is used to display a picture, typically next to a person''s
 
 ## Default
 
+![](../.gitbook/assets/default%20%281%29.svg)
+
 ```markup
 <div class="avatar">
     <div class="icon">NS</div>
@@ -16,6 +18,8 @@ description: 'Avatar is used to display a picture, typically next to a person''s
 ## Sizes
 
 When you want to add avatar by sizes, you will need to have the class `.avatar` and then add the size `.avatar-[size]`.
+
+![](../.gitbook/assets/sizes.svg)
 
 ```markup
 <div class="row">
@@ -54,6 +58,8 @@ When you want to add avatar by sizes, you will need to have the class `.avatar` 
 ## Photo Avatar
 
 You can use Photo Avatar for different sizes also. Just add `.avatar-[size]` and the image will be responsive to the size.
+
+![](../.gitbook/assets/avatar.svg)
 
 ```markup
 <div class="avatar">

@@ -10,6 +10,8 @@ description: >-
 
 The Underline form of tabs.
 
+![](../.gitbook/assets/concept-1.svg)
+
 ```markup
 <ul
 class="nav tabs-underline nav-justified"
@@ -85,6 +87,8 @@ role="tablist"
 
 The Filled form of tabs.
 
+![](../.gitbook/assets/concept-2.svg)
+
 ```markup
 <ul class="nav tabs-filled nav-justified" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
@@ -155,6 +159,8 @@ The Filled form of tabs.
 ## Tabs Filled Rounded
 
 The Rounded Filled form of tabs.
+
+![](../.gitbook/assets/concept-3.svg)
 
 ```markup
 <ul
@@ -230,6 +236,8 @@ The Rounded Filled form of tabs.
 ## Tabs Active Only
 
 The Active-Only form of tabs.
+
+![](../.gitbook/assets/concept-4.svg)
 
 ```markup
 <ul

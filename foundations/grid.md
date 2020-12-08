@@ -34,10 +34,7 @@ Bootstrap’s grid system uses a series of containers, rows, and columns to layo
 
 A column grid helps you organize content into evenly spaced vertical columns. The space between columns is referred to as the gutter size. Applying your spatial system rules to the gutters will help drive home a consistent rhythm in your designs. A common example is the 12 column grid because it allows you to divide the given area into half, thirds, fourths, sixths.
 
-```text
-plain: true
-src: "/assets/images/10_Column_grid.png"
-```
+![](../.gitbook/assets/10_column_grid.png)
 
 ## Composing a layout
 
@@ -49,17 +46,11 @@ Defining the scaling logic is now a requirement for both native and web apps. Fr
 
 An adaptive layout is one that changes entirely based on the format it is presented in. For example, loading different experiences based on desktop, tablet, and mobile devices. This promotes a more tailored experience for the user’s device but can become expensive to rebuild the same functionality into multiple formats.
 
-```text
-plain: true
-src: "/assets/images/14_adaptive.png"
-```
+![](../.gitbook/assets/14_adaptive.png)
 
 ## Responsive
 
 A responsive layout is fluid and can adapt to a changing format size. This is a common practice on the web and has become a necessity for native apps as screen size variations have increased. This allows you to build a feature one time and expect it to work across all screen sizes. The downside is that touch and mouse interactions are very different and it’s expensive to account for all devices and use cases.
 
-```text
-plain: true
-src: "/assets/images/15_responsive.png"
-```
+![](../.gitbook/assets/15_responsive.png)
 

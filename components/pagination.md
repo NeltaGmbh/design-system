@@ -8,6 +8,8 @@ description: >-
 
 ## Filled
 
+![](../.gitbook/assets/filled.svg)
+
 ```markup
 <nav aria-label="Page navigation example">
   <ul class="pagination-filled">
@@ -27,6 +29,8 @@ description: >-
 ```
 
 ## Square Active
+
+![](../.gitbook/assets/active.svg)
 
 ```markup
 <nav aria-label="Page navigation example">

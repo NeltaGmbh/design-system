@@ -14,6 +14,8 @@ By default, all section message comes with an icon and an area for content. A `t
 
 Info section messages are the default style used to signify a change in state or important information.
 
+![](../.gitbook/assets/information.svg)
+
 ```markup
 <div class="sm-info">
   <div class="header">
@@ -42,6 +44,8 @@ Warning section messages are the most common. They help users:
 * take the actions needed to avoid potentially dangerous actions
 * feel certain they're making the decision, for example, in confirmation modals.
 
+![](../.gitbook/assets/warning%20%282%29.svg)
+
 ```markup
 <div class="sm-warning">
   <div class="header">
@@ -64,6 +68,8 @@ Error section messages let the user know when:
 
 They are not a common use case for section messages.
 
+![](../.gitbook/assets/error.svg)
+
 ```markup
 <div class="sm-error">
   <div class="header">
@@ -79,6 +85,8 @@ They are not a common use case for section messages.
 ### Confirmation
 
 Confirmation section messages let the user know that an action or event has happened successfully. They are not a common use case for section messages.
+
+![](../.gitbook/assets/confirmation.svg)
 
 ```markup
 <div class="sm-success">

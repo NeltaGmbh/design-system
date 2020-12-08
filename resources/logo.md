@@ -2,479 +2,111 @@
 
 ## Vertical Logo Showcase
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-1.svg"
-title: "Vertical 1"
-```
+| Vertical 1 | Vertical 2 | Vertical 3 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-1-1-.svg)  | ![](../.gitbook/assets/vertical-2-1-.svg)  |  ![](../.gitbook/assets/vertical-3-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-2.svg"
-title: "Vertical 2"
-```
+{% file src="../.gitbook/assets/vertical-1-1-.svg" caption="Vertical 1" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-3.svg"
-title: "Vertical 3"
-```
+{% file src="../.gitbook/assets/vertical-2-1-.svg" caption="Vertical 2" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-4.svg"
-title: "Vertical 4"
-```
+{% file src="../.gitbook/assets/vertical-3-1-.svg" caption="Vertical 3" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-5.svg"
-title: "Vertical 5"
-```
+| Vertical 4 | Vertical 5 | Vertical 6 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-4-1-.svg)  | ![](../.gitbook/assets/vertical-5-1-.svg)  |  ![](../.gitbook/assets/vertical-6-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-6.svg"
-title: "Vertical 6"
-```
+{% file src="../.gitbook/assets/vertical-4-1-.svg" caption="Vertical 4" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-7.svg"
-title: "Vertical 7"
-```
+{% file src="../.gitbook/assets/vertical-5-1-.svg" caption="Vertical 5" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-8.svg"
-title: "Vertical 8"
-```
+{% file src="../.gitbook/assets/vertical-6-1-.svg" caption="Vertical 6" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-9.svg"
-title: "Vertical 9"
-```
+| Vertical 7 | Vertical 8 | Vertical 9 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-7-1-.svg)  |  ![](../.gitbook/assets/vertical-8-1-.svg)  |  ![](../.gitbook/assets/vertical-9-1-.svg)  |
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-10.svg"
-title: "Vertical 10"
-```
+{% file src="../.gitbook/assets/vertical-7-1-.svg" caption="Vertical 7" %}
 
-```text
-plain: true
-span: 2
-src: "/assets/logo/vertical-11.svg"
-title: "Vertical 11"
-```
+{% file src="../.gitbook/assets/vertical-8-1-.svg" caption="Vertical 8" %}
 
-## Vertical Logo Download
+{% file src="../.gitbook/assets/vertical-9-1-.svg" caption="Vertical 9" %}
 
-```text
-{
-    "title": "Vertical 1 (.svg)",
-    "subtitle": "8 KB",
-    "url": "/assets/logo/vertical-1.svg"
-}
-```
+| Vertical 10 | Vertical 11 |  |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/vertical-10-1-.svg)  |  ![](../.gitbook/assets/vertical-11-1-.svg)  |  |
 
-```text
-title: Vertical 2 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-2.svg"
-```
+{% file src="../.gitbook/assets/vertical-10-1-.svg" caption="Vertical 10" %}
 
-```text
-title: Vertical 3 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-3.svg"
-```
-
-```text
-title: Vertical 4 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-4.svg"
-```
-
-```text
-title: Vertical 5 (.svg)
-subtitle: 8 KB
-span: 2
-url: "/assets/logo/vertical-5.svg"
-```
-
-```text
-title: Vertical 6 (.svg)
-subtitle: 7 KB
-span: 2
-url: "/assets/logo/vertical-6.svg"
-```
-
-```text
-title: Vertical 7 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-7.svg"
-```
-
-```text
-title: Vertical 8 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-8.svg"
-```
-
-```text
-title: Vertical 9 (.svg)
-subtitle: 4 KB
-span: 2
-url: "/assets/logo/vertical-9.svg"
-```
-
-```text
-title: Vertical 10 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/vertical-10.svg"
-```
-
-```text
-title: Vertical 11 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/vertical-11.svg"
-```
+{% file src="../.gitbook/assets/vertical-11-1-.svg" caption="Vertical 11" %}
 
 ## Horizontal Logo Showcase
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-1.svg"
-title: "Horizontal 1"
-```
+| Horizontal 1 | Horizontal 2 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-1-1-.svg)  | ![](../.gitbook/assets/horizontal-2-1-.svg)  |
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-2.svg"
-title: "Horizontal 2"
-```
+{% file src="../.gitbook/assets/horizontal-1-1-.svg" caption="Horizontal 1" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-3.svg"
-title: "Horizontal 3"
-```
+{% file src="../.gitbook/assets/horizontal-2-1-.svg" caption="Horizontal 2" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-4.svg"
-title: "Horizontal 4"
-```
+| Horizontal 3 | Horizontal 4 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-3-1-.svg)  | ![](../.gitbook/assets/horizontal-4-1-.svg)  |
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-5.svg"
-title: "Horizontal 5"
-```
+{% file src="../.gitbook/assets/horizontal-3-1-.svg" caption="Horizontal 3" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-6.svg"
-title: "Horizontal 6"
-```
+{% file src="../.gitbook/assets/horizontal-4-1-.svg" caption="Horizontal 4" %}
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-7.svg"
-title: "Horizontal 7"
-```
+| Horizontal 5 | Horizontal 6 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-5-1-.svg)  | ![](../.gitbook/assets/horizontal-6-1-.svg)  |
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-8.svg"
-title: "Horizontal 8"
-```
+{% file src="../.gitbook/assets/horizontal-5-1-.svg" caption="Horizontal 5" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-9.svg"
-title: "Horizontal 9"
-```
+{% file src="../.gitbook/assets/horizontal-6-1-.svg" caption="Horizontal 6" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-10.svg"
-title: "Horizontal 10"
-```
+| Horizontal 7 | Horizontal 8 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-7-1-.svg)  | ![](../.gitbook/assets/horizontal-8-1-.svg)  |
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-11.svg"
-title: "Horizontal 11"
-```
+{% file src="../.gitbook/assets/horizontal-7-1-.svg" caption="Horizontal 7" %}
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-12.svg"
-title: "Horizontal 12"
-```
+{% file src="../.gitbook/assets/horizontal-8-1-.svg" caption="Horizontal 8" %}
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-13.svg"
-title: "Horizontal 13"
-```
+| Horizontal 9 | Horizontal 10 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-9-1-.svg)  | ![](../.gitbook/assets/horizontal-10-1-.svg)  |
 
-```text
-plain: true
-span: 2
-dark: true
-src: "/assets/logo/horizontal-14.svg"
-title: "Horizontal 14"
-```
+{% file src="../.gitbook/assets/horizontal-9-1-.svg" caption="Horizontal 9" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-15.svg"
-title: "Horizontal 15"
-```
+{% file src="../.gitbook/assets/horizontal-10-1-.svg" caption="Horizontal 10" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-16.svg"
-title: "Horizontal 16"
-```
+| Horizontal 11 | Horizontal 12 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-11-1-.svg)  | ![](../.gitbook/assets/horizontal-15-1-.svg)  |
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-17.svg"
-title: "Horizontal 17"
-```
+{% file src="../.gitbook/assets/horizontal-11-1-.svg" caption="Horizontal 11" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-18.svg"
-title: "Horizontal 18"
-```
+{% file src="../.gitbook/assets/horizontal-15-1-.svg" caption="Horizontal 12" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-19.svg"
-title: "Horizontal 19"
-```
+| Horizontal 13 | Horizontal 14 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-16-1-.svg)  | ![](../.gitbook/assets/horizontal-17-1-.svg)  |
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-20.svg"
-title: "Horizontal 20"
-```
+{% file src="../.gitbook/assets/horizontal-16-1-.svg" caption="Horizontal 13" %}
 
-```text
-plain: true
-span: 2
-light: true
-src: "/assets/logo/horizontal-21.svg"
-title: "Horizontal 21"
-```
+{% file src="../.gitbook/assets/horizontal-17-1-.svg" caption="Horizontal 14" %}
 
-## Horizontal Logo Download
+| Horizontal 15 | Horizontal 16 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-18-1-.svg)  | ![](../.gitbook/assets/horizontal-19-1-.svg)  |
 
-```text
-title: Horizontal 1 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-1.svg"
-```
+{% file src="../.gitbook/assets/horizontal-18-1-.svg" caption="Horizontal 15" %}
 
-```text
-title: Horizontal 2 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-2.svg"
-```
+{% file src="../.gitbook/assets/horizontal-19-1-.svg" caption="Horizontal 16" %}
 
-```text
-title: Horizontal 3 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-3.svg"
-```
-
-```text
-title: Horizontal 4 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-4.svg"
-```
-
-```text
-title: Horizontal 5 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-5.svg"
-```
-
-```text
-title: Horizontal 6 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-6.svg"
-```
-
-```text
-title: Horizontal 7 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-7.svg"
-```
-
-```text
-title: Horizontal 8 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-8.svg"
-```
-
-```text
-title: Horizontal 9 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-9.svg"
-```
-
-```text
-title: Horizontal 10 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-10.svg"
-```
-
-```text
-title: Horizontal 11 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-11.svg"
-```
-
-```text
-title: Horizontal 12 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-12.svg"
-```
-
-```text
-title: Horizontal 13 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-13.svg"
-```
-
-```text
-title: Horizontal 14 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-14.svg"
-```
-
-```text
-title: Horizontal 15 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-15.svg"
-```
-
-```text
-title: Horizontal 16 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-16.svg"
-```
-
-```text
-title: Horizontal 17 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-17.svg"
-```
-
-```text
-title: Horizontal 18 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-18.svg"
-```
-
-```text
-title: Horizontal 19 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-19.svg"
-```
-
-```text
-title: Horizontal 20 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-20.svg"
-```
-
-```text
-title: Horizontal 21 (.svg)
-subtitle: 3 KB
-span: 2
-url: "/assets/logo/horizontal-21.svg"
-```
+| Horizontal 17 | Horizontal 18 |
+| :--- | :--- |
+| ![](../.gitbook/assets/horizontal-20-1-.svg)  | ![](../.gitbook/assets/horizontal-21-1-.svg)  |
 
