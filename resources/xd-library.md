@@ -4,5 +4,9 @@
 Adobe XD Library will be updated regularly
 {% endhint %}
 
-{% file src="../.gitbook/assets/designsystemv0.1-nelta.zip" caption="Download Adobe XD Library \(.xd\)" %}
+{% hint style="info" %}
+[Download Here](https://shared-assets.adobe.com/link/198d6c48-c02d-41f0-5cd9-b0b32443d943)
+{% endhint %}
+
+
 
