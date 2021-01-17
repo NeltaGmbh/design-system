@@ -35,6 +35,7 @@
 * [Banner](components/banner.md)
 * [Breadcrumbs](components/breadcrumbs.md)
 * [Button](components/button.md)
+* [Cards](components/cards.md)
 * [Checkbox](components/checkbox.md)
 * [Code Block](components/code-block.md)
 * [Dropdown](components/dropdown.md)
