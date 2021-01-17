@@ -18,7 +18,7 @@ npm install nelta-framework
 Copy-paste the stylesheet `<link>` into your `<head>` before all other stylesheets to load our CSS.
 
 ```markup
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.15/dist/bundle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.16/dist/bundle.css">
 ```
 
 #### JS
@@ -27,7 +27,7 @@ Many of our components require the use of JavaScript to function. Specifically, 
 
 ```markup
 <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.15/dist/bundle.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.16/dist/bundle.js"></script>
 ```
 
 ### Starter template <a id="starter-template"></a>
