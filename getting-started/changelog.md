@@ -2,6 +2,10 @@
 
 ## 0.1.16 - January 2021
 
+### Added
+
+* [Cards](../components/cards.md)
+
 ### Changed
 
 * [Buttons](../components/button.md)
