@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.16 - January 2021
+
+### Changed
+
+* [Buttons](../components/button.md)
+
 ## 0.1.15 - November 2020
 
 ### Added
