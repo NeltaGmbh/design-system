@@ -6,3 +6,11 @@ Deployment Status: [![buddy pipeline](https://app.buddy.works/nelta/design-syste
 
 ## **Nelta's Design System** is a collection of reusable components and tools, guided by clear standards, that can be assembled together to build digital products for Nelta.
 
+This website exists to provide a range of resources for both developers and designers. The easiest way to get started is by following these links:
+
+{% page-ref page="getting-started/for-developers.md" %}
+
+{% page-ref page="getting-started/for-designers.md" %}
+
+
+
