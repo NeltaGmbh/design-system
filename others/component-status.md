@@ -11,11 +11,11 @@ The individual phases are not directly dependent on each other, the design part 
 | Component | ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png) | ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png) | ![picture](https://img.icons8.com/ios/30/11173D/javascript.png) | ![picture](https://img.icons8.com/wired/30/11173D/new-document.png) |
 | :--- | :--- | :--- | :--- | :--- |
 | Avatar | Released | Released | n/a | Released |
-| Accordion | **Designing** | **Developing** | **Developing** | **Writing** |
+| Accordion | Released | **Developing** | **Developing** | **Writing** |
 | Banner | Released | Released | n/a | Released |
 | Breadcrumbs | Released | Released | n/a | Released |
 | Button | Released | **Developing** | n/a | **Writing** |
-| Cards | **Designing** | **Developing** | **Developing** | **Writing** |
+| Cards | Released | **Developing** | **Developing** | **Writing** |
 | Checkbox | Released | Released | n/a | Released |
 | Code Block | Released | Released | n/a | Released |
 | Dropdown | Released | Released | n/a | Released |
