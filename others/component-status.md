@@ -14,7 +14,7 @@ The individual phases are not directly dependent on each other, the design part 
 | Accordion | **Designing** | **Developing** | **Developing** | **Writing** |
 | Banner | Released | Released | n/a | Released |
 | Breadcrumbs | Released | Released | n/a | Released |
-| Button | **Designing** | **Developing** | n/a | **Writing** |
+| Button | Released | **Developing** | n/a | **Writing** |
 | Cards | **Designing** | **Developing** | **Developing** | **Writing** |
 | Checkbox | Released | Released | n/a | Released |
 | Code Block | Released | Released | n/a | Released |
@@ -30,7 +30,7 @@ The individual phases are not directly dependent on each other, the design part 
 | Select | Released | Released | n/a | Released |
 | Tabs | Released | Released | n/a | Released |
 | Tag | Released | Released | n/a | Released |
-| Text field | **Designing** | **Developing** | **Developing** | **Writing** |
+| Text field | Released | **Developing** | **Developing** | **Writing** |
 | Toggle | Released | Released | n/a | Released |
 | Tooltip | Released | Released | n/a | Released |
 
