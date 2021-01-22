@@ -32,6 +32,7 @@
 ## Components
 
 * [Avatar](components/avatar.md)
+* [Accordion](components/accordion.md)
 * [Banner](components/banner.md)
 * [Breadcrumbs](components/breadcrumbs.md)
 * [Button](components/button.md)
