@@ -4,5 +4,5 @@
 UI Kit will be updated regularly
 {% endhint %}
 
-{% file src="../.gitbook/assets/designsystemv0.1-nelta.zip" caption="Download UI Kit \(.xd\)" %}
+{% file src="../.gitbook/assets/design-system-nelta-v0.2.zip" %}
 
