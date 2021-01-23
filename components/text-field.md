@@ -68,6 +68,13 @@ Place one add-on or button on either side of an input. You may also place one on
       <div class="invalid-feedback">Please provide a valid zip.</div>
     </div>
   </div>
+  <div class="form-row">
+    <div class="col-md-12 mb-3">
+      <label for="validationCustom03">Your Message</label>
+      <textarea class="form-control" required></textarea>
+      <div class="invalid-feedback">Please write a message.</div>
+    </div>
+  </div>
   <div class="form-group">
     <div class="form-check">
       <input
