@@ -14,7 +14,7 @@ The individual phases are not directly dependent on each other, the design part 
 | Accordion | Released | **Developing** | **Developing** | **Writing** |
 | Banner | Released | Released | n/a | Released |
 | Breadcrumbs | Released | Released | n/a | Released |
-| Button | Released | **Developing** | n/a | **Writing** |
+| Button | Released | Released | n/a | **Writing** |
 | Cards | Released | **Developing** | **Developing** | **Writing** |
 | Checkbox | Released | Released | n/a | Released |
 | Code Block | Released | Released | n/a | Released |
