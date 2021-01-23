@@ -30,7 +30,7 @@ The individual phases are not directly dependent on each other, the design part 
 | Select | Released | Released | n/a | Released |
 | Tabs | Released | Released | n/a | Released |
 | Tag | Released | Released | n/a | Released |
-| Text field | Released | **Developing** | **Developing** | **Writing** |
+| Text field | Released | Released | Released | **Writing** |
 | Toggle | Released | Released | n/a | Released |
 | Tooltip | Released | Released | n/a | Released |
 
