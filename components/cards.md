@@ -4,6 +4,8 @@
 Type 1
 {% endhint %}
 
+![](../.gitbook/assets/card-t1-2x.png)
+
 ```markup
 <div class="container">
   <div class="row">
@@ -27,6 +29,8 @@ Type 1
 {% hint style="info" %}
 Type 2
 {% endhint %}
+
+![](../.gitbook/assets/card-t2-2x.png)
 
 ```markup
 <div class="container">
@@ -53,5 +57,35 @@ Type 2
     </div>
   </div>
 </div>
+```
+
+{% hint style="info" %}
+Type 3
+{% endhint %}
+
+![](../.gitbook/assets/card-t3-2x.png)
+
+```markup
+
+```
+
+{% hint style="info" %}
+Type 4
+{% endhint %}
+
+![](../.gitbook/assets/card-t4-2x.png)
+
+```markup
+
+```
+
+{% hint style="info" %}
+Type 5
+{% endhint %}
+
+![](../.gitbook/assets/card-t5-2x.png)
+
+```markup
+
 ```
 
