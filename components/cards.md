@@ -24,3 +24,34 @@ Type 1
 </div>
 ```
 
+{% hint style="info" %}
+Type 2
+{% endhint %}
+
+```markup
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card-t2">
+        <div class="img">
+          <div class="overlay"></div>
+          <img src="/src/images/article.png" alt="" />
+        </div>
+        <div class="content">
+          <span class="categories">
+            <a href="#">Business</a>
+            <a href="#">Insights</a>
+          </span>
+          <div class="title">
+            <a href="#"
+              >Automatisiertes Software Testing: Nach COVID-19 wichtiger
+              denn je</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
