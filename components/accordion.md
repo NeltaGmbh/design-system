@@ -4,6 +4,8 @@
 Accordion with image on the right
 {% endhint %}
 
+![](../.gitbook/assets/accordion-iright-2x.png)
+
 ```markup
 <div class="container">
   <div class="row">
@@ -136,6 +138,8 @@ Accordion with image on the right
 {% hint style="info" %}
 Accordion with image on the left
 {% endhint %}
+
+![](../.gitbook/assets/accordion-ileft-2x.png)
 
 ```markup
 <div class="container">
