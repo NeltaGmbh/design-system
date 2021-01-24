@@ -6,6 +6,8 @@ description: >-
 
 # Checkbox
 
+![](../.gitbook/assets/checkbox.png)
+
 ```markup
 <div class="custom-control custom-checkbox">
     <input type="checkbox" class="custom-control-input" id="customCheck1">
