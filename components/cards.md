@@ -121,6 +121,22 @@ Type 5
 ![](../.gitbook/assets/card-t5-2x.png)
 
 ```markup
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card-t5">
+        <a href="#">
+          <div class="img">
+            <img src="/src/images/cardimg.jpg" alt="Card Type 4" />
+            <div class="content">
+              <h4>Commerzbank</h4>
+              <p>Sass software company</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
