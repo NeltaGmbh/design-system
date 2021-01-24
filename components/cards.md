@@ -66,7 +66,26 @@ Type 3
 ![](../.gitbook/assets/card-t3-2x.png)
 
 ```markup
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card-t3">
+        <div class="content">
+          <h4>Persönliche Entwicklung</h4>
+          <p>
+            Deine persönliche Entwicklung ist ein Teil unserer
+            Unternehmensstrategie. Trainee-Programme, ein strukturierter
+            Onboarding-Prozess und viele Weiterbildungsangebote machen Dich
+            und uns erfolgreich.
+          </p>
+        </div>
+        <div class="icon">
+          <ion-icon name="checkmark-outline"></ion-icon>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
 {% hint style="info" %}
