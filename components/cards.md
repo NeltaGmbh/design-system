@@ -95,7 +95,23 @@ Type 4
 ![](../.gitbook/assets/card-t4-2x.png)
 
 ```markup
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card-t4">
+        <a href="#">
+          <div class="img">
+            <img src="/src/images/cardimg.jpg" alt="Card Type 4" />
+            <div class="content">
+              <h4>Commerzbank</h4>
+              <p>Technology</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
 {% hint style="info" %}
