@@ -26,7 +26,8 @@ Copy-paste the stylesheet `<link>` into your `<head>` before all other styleshee
 Many of our components require the use of JavaScript to function. Specifically, they require [jQuery](https://jquery.com/), [Popper.js](https://popper.js.org/), and our own JavaScript plugins. We use [jQuery’s slim build](https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/), but the full version is also supported.
 
 ```markup
-<script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+<script type="module" src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule="" src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.16/dist/bundle.js"></script>
 ```
 
@@ -56,7 +57,8 @@ Starter template is a snippet code for blank HTML page. Use the below snippet as
     <h1>Hello, world!</h1>
 
     <!-- JS Icons and Nelta Framework -->
-    <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule="" src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/nelta-framework@0.1.16/dist/bundle.js"></script>
 
   </body>
