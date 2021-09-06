@@ -1,3 +1,7 @@
+---
+description: This endpoint allow you to get clients that are published by Nelta
+---
+
 # Clients
 
 {% api-method method="get" host="https://api.nelta.de" path="/clients" %}
