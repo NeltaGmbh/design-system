@@ -24,6 +24,28 @@ The slug path to the selected job
 The ID of the job to be retrieved
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
+
+{% api-method-query-parameters %}
+{% api-method-parameter name="title" type="string" required=false %}
+Get job title
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="job\_time" type="string" required=false %}
+This field describes what timeframe is this job open for
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="location" type="string" required=false %}
+The job location, office or remote
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="job\_overview" type="object" required=false %}
+Retrieve more information about the selected job
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="title\_content" type="array" required=false %}
+This field will have a title and content which can be added, modified or deleted
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
