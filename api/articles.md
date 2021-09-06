@@ -16,6 +16,10 @@ This endpoint allows you to get articles that are published by Nelta.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
+{% api-method-parameter name="slug" type="string" required=false %}
+The slug path to the selected article
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="id" type="string" %}
 The ID of the article to be retrieved
 {% endapi-method-parameter %}
