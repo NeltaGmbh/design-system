@@ -71,7 +71,7 @@ Client successfully retrieved.
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-
+When a bad request happens
 {% endapi-method-response-example-description %}
 
 ```javascript
