@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.16 - January 2021
+
+### Added
+
+* [Cards](../components/cards.md)
+* [Accordion](../components/accordion.md)
+
+### Changed
+
+* [Buttons](../components/button.md)
+* [Text Field](../components/text-field.md)
+
 ## 0.1.15 - November 2020
 
 ### Added

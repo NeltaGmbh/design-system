@@ -6,6 +6,8 @@ description: >-
 
 # Radio
 
+![](../.gitbook/assets/radio.png)
+
 ```markup
 <div class="row">
   <div class="col-12">

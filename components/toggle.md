@@ -8,6 +8,8 @@ description: A toggle is used to view or switch between enabled or disabled stat
 
 A switch has the markup of a custom checkbox but uses the `.custom-switch` class to render a toggle switch. Switches also support the disabled attribute.
 
+![](../.gitbook/assets/switch.png)
+
 ```markup
 <div class="custom-control custom-switch">
   <input type="checkbox" class="custom-control-input" id="customSwitch1">

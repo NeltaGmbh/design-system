@@ -29,12 +29,22 @@
 
 * [Writing style](content/writing-style.md)
 
+## API
+
+* [Clients](api/clients.md)
+* [Articles](api/articles.md)
+* [Case Studies](api/case-studies.md)
+* [Jobs](api/jobs.md)
+* [General Settings](api/general-settings.md)
+
 ## Components
 
 * [Avatar](components/avatar.md)
+* [Accordion](components/accordion.md)
 * [Banner](components/banner.md)
 * [Breadcrumbs](components/breadcrumbs.md)
 * [Button](components/button.md)
+* [Cards](components/cards.md)
 * [Checkbox](components/checkbox.md)
 * [Code Block](components/code-block.md)
 * [Dropdown](components/dropdown.md)

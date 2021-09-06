@@ -6,40 +6,31 @@ description: >-
 
 # Button
 
-## Button Tags
+## Main button
+
+![](../.gitbook/assets/main-button.png)
 
 ```markup
 <button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-primary" disabled>Primary</button>
+```
+
+## Secondary button
+
+![](../.gitbook/assets/ghost-button.png)
+
+```markup
 <button type="button" class="btn btn-secondary">Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
-<button type="button" class="btn btn-link">Link</button>
+<button type="button" class="btn btn-secondary" disabled>Secondary</button>
 ```
 
-## Sizes
+## Button with icon
 
-### Large
-
-```markup
-<button type="button" class="btn btn-primary btn-lg">Large button</button>
-<button type="button" class="btn btn-secondary btn-lg">Large button</button>
-```
-
-### Small
+![](../.gitbook/assets/icon-button.png)
 
 ```markup
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
-<button type="button" class="btn btn-secondary btn-sm">Small button</button>
-```
-
-### Block Level
-
-```markup
-<button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
-<button type="button" class="btn btn-secondary btn-lg btn-block">Block level button</button>
+<button type="button" class="btn btn-secondary">
+    <ion-icon name="add-circle-outline"></ion-icon>Text Button
+</button>
 ```
 
