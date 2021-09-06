@@ -294,6 +294,44 @@ Case study successfully retrieved
 }
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+When a bad request happens
+{% endapi-method-response-example-description %}
+
+```javascript
+{
+    "statusCode": 400,
+    "error": "Bad Request",
+    "message": "Your filters contain a field '_v' that doesn't appear on your model definition nor its relations"
+}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Could not find any case studies matching this query
+{% endapi-method-response-example-description %}
+
+```
+[]
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=503 %}
+{% api-method-response-example-description %}
+Bad response or internal server error
+{% endapi-method-response-example-description %}
+
+```javascript
+{
+    "statusCode": 500,
+    "error": "Internal Server Error",
+    "message": "An internal server error occurred"
+}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
