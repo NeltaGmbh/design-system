@@ -67,7 +67,7 @@ Retrieve an array of objects containing gallery images with its formats for the 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Case study successfully retrieved
 {% endapi-method-response-example-description %}
 
 ```javascript
@@ -141,66 +141,66 @@ Retrieve an array of objects containing gallery images with its formats for the 
             "id": "613277d5fb9e183ee8b1a134"    
         },
         {
-        "_id": "613277d5fb9e183ee8b1a135",
-        "name": "fran-innocenti-HRfvMO9I69U-unsplash.jpg",
-        "alternativeText": "",
-        "caption": "",
-        "hash": "fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 835.69,
-        "width": 3496,
-        "height": 2331,
-        "url": "/uploads/fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg",
-        "formats": {
-        "thumbnail": {
-        "name": "thumbnail_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
-        "hash": "thumbnail_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "width": 234,
-        "height": 156,
-        "size": 10.78,
-        "path": null,
-        "url": "/uploads/thumbnail_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
-        },
-        "large": {
-        "name": "large_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
-        "hash": "large_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "width": 1000,
-        "height": 667,
-        "size": 92.05,
-        "path": null,
-        "url": "/uploads/large_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
-        },
-        "medium": {
-        "name": "medium_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
-        "hash": "medium_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "width": 750,
-        "height": 500,
-        "size": 59.69,
-        "path": null,
-        "url": "/uploads/medium_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
-        },
-        "small": {
-        "name": "small_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
-        "hash": "small_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "width": 500,
-        "height": 333,
-        "size": 33.52,
-        "path": null,
-        "url": "/uploads/small_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
-        }
-        },
-        "provider": "local",
-        "related": [
-        "613277fcfb9e183ee8b1a137"
+            "_id": "613277d5fb9e183ee8b1a135",
+            "name": "fran-innocenti-HRfvMO9I69U-unsplash.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "hash": "fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 835.69,
+            "width": 3496,
+            "height": 2331,
+            "url": "/uploads/fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg",
+            "formats": {
+                "thumbnail": {
+                "name": "thumbnail_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
+                "hash": "thumbnail_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 10.78,
+                "path": null,
+                "url": "/uploads/thumbnail_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
+                },
+                "large": {
+                "name": "large_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
+                "hash": "large_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 667,
+                "size": 92.05,
+                "path": null,
+                "url": "/uploads/large_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
+                },
+                "medium": {
+                "name": "medium_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
+                "hash": "medium_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 500,
+                "size": 59.69,
+                "path": null,
+                "url": "/uploads/medium_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
+                },
+                "small": {
+                "name": "small_fran-innocenti-HRfvMO9I69U-unsplash.jpg",
+                "hash": "small_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 33.52,
+                "path": null,
+                "url": "/uploads/small_fran_innocenti_H_Rfv_MO_9_I69_U_unsplash_f9bf8d1bc1.jpg"
+                }
+            },
+            "provider": "local",
+            "related": [
+            "613277fcfb9e183ee8b1a137"
         ],
         "createdAt": "2021-09-03T19:30:29.930Z",
         "updatedAt": "2021-09-03T21:28:20.060Z",
