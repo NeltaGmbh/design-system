@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.0 - September 2021
+
+### Added
+
+* Created the API
+  * Strapi Backend
+  * Clients
+  * Articles
+  * Case Studies
+  * Jobs
+  * General Settings
+
+### Changed
+
+* Case Studies page
+
 ## 0.1.16 - January 2021
 
 ### Added
