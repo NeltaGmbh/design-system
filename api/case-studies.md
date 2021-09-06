@@ -27,11 +27,11 @@ The ID of the case study to be retrieved
 
 {% api-method-query-parameters %}
 {% api-method-parameter name="client\_name" type="string" required=false %}
-
+Gets the client name
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="slogan" type="string" required=false %}
-
+Gets the client slogan
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="brief" type="string" required=false %}
@@ -50,19 +50,15 @@ The ID of the case study to be retrieved
 
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="" type="string" required=false %}
+{% api-method-parameter name="company\_presentation" type="object" required=false %}
 
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="" type="string" required=false %}
-
+{% api-method-parameter name="jobs\_dones" type="string" required=false %}
+Retrieve an array of objects containing all jobs done to particular case study
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="" type="string" required=false %}
+{% api-method-parameter name="gallery" type="array" required=false %}
 
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
