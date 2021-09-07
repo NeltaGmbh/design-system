@@ -1,5 +1,5 @@
 ---
-description: This endpoint allow you to get clients that are published by Nelta
+description: This endpoint allows you to get clients that are published by Nelta
 ---
 
 # Clients
@@ -16,12 +16,8 @@ This endpoint allows you to get clients array of objects.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="slug" type="string" required=true %}
-The slug of client to be retrived
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="id" type="string" required=false %}
-ID of the client to be retrived
+ID of the client to be retrieved
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
