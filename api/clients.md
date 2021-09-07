@@ -17,7 +17,7 @@ This endpoint allows you to get clients array of objects.
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name="id" type="string" required=false %}
-ID of the client to be retrieved
+The ID of the client to be retrieved
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
